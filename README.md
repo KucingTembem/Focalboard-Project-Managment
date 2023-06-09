@@ -1,4 +1,4 @@
-# Focalboard-Project-Managment
+# Focalboard-Tool-Project-Managment
 
 > Muhammad Rayhan Rachmansyah (19081010002)
 
